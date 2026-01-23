@@ -3,3 +3,6 @@
 
 # Ignore checkpoint files
 .ipnyb_checkpoint
+
+# Ignore DS Store 
+.DS_Store
