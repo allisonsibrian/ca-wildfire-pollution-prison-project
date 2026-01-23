@@ -1,0 +1,5 @@
+# Environment files
+.env
+
+# Ignore checkpoint files
+.ipnyb_checkpoint
