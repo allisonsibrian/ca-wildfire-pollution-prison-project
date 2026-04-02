@@ -1,6 +1,6 @@
 # California Wildfire PM2.5 Pollution on Prison and Detention Facilities
 
-** Currently ongoing ** 
+**Project: Currently ongoing** 
 
 ## Project Overview 
 
