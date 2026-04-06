@@ -4,5 +4,8 @@
 # Ignore checkpoint files
 .ipnyb_checkpoint
 
+# Ignore data files
+/data
+
 # Ignore DS Store 
 .DS_Store
