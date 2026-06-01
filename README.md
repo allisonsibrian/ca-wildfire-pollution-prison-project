@@ -10,6 +10,7 @@ Following inspiration from Ufuoma Ovienmhada’s work with [The Toxic Prisons Ma
 This classifier utilizes data from the California Department of Corrections and Rehabilitation Adult Facilities, TRAC Immigration, CAL FIRE, NASA FIRMS, NASA DEM, EPA, Purple Air, and NASA TROPOMI to create a holistic understanding of vulnerabilities faced by incarcerated and unjustly detained populations across California.
 
 ## File Structure
+```text
 ├── .gitignore  
 ├── README.md
 ├── ca_wildfire_facilities_data_cleaning.ipynb
@@ -17,12 +18,17 @@ This classifier utilizes data from the California Department of Corrections and 
 ├── ca_wildfire_final_model.ipynb
 ├── ca_wildfire_pre_analysis.ipynb
 ├── ca_wildfire_risk_tier_map.ipynb
+```
 
 ## Key Research Outcomes 
 
 
 ## Risk Tier Map
-[![Risk Tier Map Snapshot](risk_tier_map_snapshot.png)]
+![Risk Tier Map Snapshot](risk_tier_map_snapshot.png)
+
+## Download Data
+
+## Tech Stack
 
 ## References
 
