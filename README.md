@@ -12,24 +12,25 @@ This classifier utilizes data from the California Department of Corrections and 
 ## File Structure
 ```text
 ├── .gitignore  
-├── README.md
-├── ca_wildfire_facilities_data_cleaning.ipynb
-├── ca_wildfire_feature_engineering.ipynb
-├── ca_wildfire_final_model.ipynb
-├── ca_wildfire_pre_analysis.ipynb
-├── ca_wildfire_risk_tier_map.ipynb
+├── README.md 
+├── ca_wildfire_facilities_data_cleaning.ipynb  # Part 1: Cleaning and Finalizing Facilities Dataset
+├── ca_wildfire_feature_engineering.ipynb       # Part 2: Feature Engineering
+├── ca_wildfire_final_model.ipynb               # Part 4: Inputting into Models and Assessment
+├── ca_wildfire_pre_analysis.ipynb              # Part 3: Pre-Analysis and Finalizing Features Before Inputting into Model
+├── ca_wildfire_risk_tier_map.ipynb             # Part 5: Creating Risk Tier Map
 ```
 
 ## Key Research Outcomes 
 
 
 ## Risk Tier Map
-![Risk Tier Map Snapshot](risk_tier_map_snapshot.png)
+![Risk Tier Map Snapshot](risk_tier_map_screenshot.png)
 
 ## Download Data
 
+
 ## Tech Stack
 
-## References
 
+## References [^1]
 [^1]: Sim, Hyeyoung, and Dong Yeong Chang. *Climate-Driven Wildfires: A Systematic Review of Prolongation, Spontaneity, and Scale with Lessons from California*, 17 Oct. 2025, https://doi.org/10.22541/essoar.176071959.91646747/v1. 
