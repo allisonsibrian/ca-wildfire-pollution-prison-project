@@ -14,7 +14,7 @@ Comparing classification-centered metrics, the Random Forest Regression-Based Cl
 
 ```text
 ├── docs/
-│   └── cwpp_risk_classifier_map.html
+│   └── index.html
 ├── visualizations/
 │   ├── reg_confusion_matrix.png
 │   ├── classifier_confusion_matrix.png
@@ -50,7 +50,8 @@ A simple list below is provided of the type of data utilized:
   * TRAC Immigration (List of Monthly Population Data Copy-Pasted)
 
 * API/GEE Data: 
-  * Purple Air                                                  * NASA DEM (Ran on Notebook -> GEE, then downloaded interested file)
+  * Purple Air                                     
+  * NASA DEM (Ran on Notebook -> GEE, then downloaded interested file)
   * NASA TROPOMI (Ran on Notebook -> GEE, then downloaded interested file)
 
 To download the specified datasets, links are specified in their respective notebooks, mainly in: 
@@ -142,7 +143,7 @@ The following map visualizes the interested facilities observed risk-tiers and R
 
 ![Risk Tier Map Snapshot](visualizations/risk_tier_map_screenshot.png)
 
-**[View Interactive Risk-Tier Map](https://allisonsibrian.github.io/ca-wildfire-pollution-prison-project/)**  
+**[View The Interactive Risk-Tier Map](https://allisonsibrian.github.io/ca-wildfire-pollution-prison-project/)**  
 > *Features include hover-data for PM2.5 concentrations and observed and predicted risk-tiers.*
 
 ## Tech Stack
@@ -151,8 +152,8 @@ The following map visualizes the interested facilities observed risk-tiers and R
 *   **Visualizations:** `matplotlib`, `seaborns`, `Plotly` 
 *   **AI Usage**: `Google Gemini` (Utilized to consolidate datasets between GEE, identifying high loss function errors, optimizing Plotly HTML layouts, and refining documentation structure.)
 
-## References
-[^1]: Sim, Hyeyoung, and Dong Yeong Chang. *Climate-Driven Wildfires: A Systematic Review of Prolongation, Spontaneity, and Scale with Lessons from California*, 17 Oct. 2025, https://doi.org/10.22541/essoar.176071959.91646747/v1. 
-
 ## Contact Information
 Email: allisonnsibrian@gmail.com
+
+## References
+[^1]: Sim, Hyeyoung, and Dong Yeong Chang. *Climate-Driven Wildfires: A Systematic Review of Prolongation, Spontaneity, and Scale with Lessons from California*, 17 Oct. 2025, https://doi.org/10.22541/essoar.176071959.91646747/v1. 
