@@ -155,6 +155,5 @@ The following map visualizes the interested facilities observed risk-tiers and R
 ## Contact Information
 Email: allisonnsibrian@gmail.com
 
-## References
 
 [^1]: Sim, Hyeyoung, and Dong Yeong Chang. *Climate-Driven Wildfires: A Systematic Review of Prolongation, Spontaneity, and Scale with Lessons from California*, 17 Oct. 2025, https://doi.org/10.22541/essoar.176071959.91646747/v1. 
