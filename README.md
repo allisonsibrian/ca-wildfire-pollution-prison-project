@@ -141,7 +141,7 @@ Other features, such as facility type and population_per_area features provided 
 ## Risk Tier Map
 The following map visualizes the interested facilities observed risk-tiers and RF Regression-Based Classifier model's performance on test and missing data via Plotly.
 
-![Risk Tier Map Snapshot](visualizations/risk_tier_map_screenshot.png)
+![Risk Tier Map Snapshot](visualizations/risktiermapscreenshot.png)
 
 **[View The Interactive Risk-Tier Map](https://allisonsibrian.github.io/ca-wildfire-pollution-prison-project/)**  
 > *Features include hover-data for PM2.5 concentrations and observed and predicted risk-tiers.*
