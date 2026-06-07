@@ -8,7 +8,7 @@ Drawing inspiration from Ufuoma Ovienmhada’s work with [The Toxic Prisons Mapp
 
 Pulling from various environmental datasets that provided contextual information about wildfire PM2.5 pollution surrounding the interested facilities, this project evaluates a Random Forest Regression-Based Classifier and a direct Random Forest Classifier to understand how well both models could predict risk classification into a three-risk system. 
 
-Comparing classification-centered metrics, the Random Forest Regression-Based Classifier provides a robust prediction framework compared to the direct Random Forest Classifier. Although both models are conservative for high-risk predictions, the Random Forest Regression-Based Classifier is trained on the raw PM2.5 values, preserving the granularity to make predictions and scoring a value of 0.75 on the ROC-AUC Curve. 
+Comparing classification-centered metrics, the Random Forest Regression-Based Classifier provides a robust prediction framework compared to the direct Random Forest Classifier. Although both models are conservative for high-risk predictions, the Random Forest Regression-Based Classifier was trained on the raw PM2.5 values, preserving the granularity to make predictions and scoring a value of 0.75 on the ROC-AUC Curve. 
 
 ## Repository File Structure
 
@@ -156,4 +156,5 @@ The following map visualizes the interested facilities observed risk-tiers and R
 Email: allisonnsibrian@gmail.com
 
 ## References
+
 [^1]: Sim, Hyeyoung, and Dong Yeong Chang. *Climate-Driven Wildfires: A Systematic Review of Prolongation, Spontaneity, and Scale with Lessons from California*, 17 Oct. 2025, https://doi.org/10.22541/essoar.176071959.91646747/v1. 
